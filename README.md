@@ -13,5 +13,5 @@
 [pyzbar](https://github.com/NaturalHistoryMuseum/pyzbar)  
 [python-qrcode](https://github.com/lincolnloop/python-qrcode)  
 [chardet](https://github.com/chardet/chardet)
-## 程序演示动画
-![avatar](https://github.com/LittleCircleOO/QRCodeTool/blob/master/%E7%A8%8B%E5%BA%8F%E6%BC%94%E7%A4%BA.gif)
+## 程序截图
+![avatar](https://github.com/LittleCircleOO/QRCodeTool/blob/master/qrpic.png)
